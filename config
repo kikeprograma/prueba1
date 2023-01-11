@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[user]
+	name = kikeprograma
+	email = edu_cassa@hotmail.com
+	password = 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
